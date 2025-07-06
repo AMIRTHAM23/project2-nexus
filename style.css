@@ -117,7 +117,7 @@ header .fa-bars{
     gap: 2rem; 
     margin-top: 7rem;
 }
-.About .box .image img{
+.About .box .image image{
     width: 60rem;
     height: 100%;
     object-fit: cover;
@@ -173,7 +173,7 @@ header .fa-bars{
     position: relative;
     overflow: hidden;
 }
-.Portfolio .row .box:hover img{
+.Portfolio .row .box:hover image{
     transform: translateY(-100%);
 }
 .Portfolio .row .box img{
@@ -210,7 +210,7 @@ header .fa-bars{
     width: 100%;
 }
 .Team .row{
-    background: url(../img/background.jpg);
+    background: url(../image/background.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -239,7 +239,7 @@ header .fa-bars{
     height: 25rem;
     width: 25rem;
 }
-.Team .Team-slider .box .image img{
+.Team .Team-slider .box .image image{
     width: 15rem;
     height: 7rem;
     border-radius: 50%;
@@ -388,7 +388,7 @@ header .fa-bars{
         flex-wrap: wrap;
         text-align: center;
     }
-    .About .box .image img{
+    .About .box .image image{
         width: 90%;
     }
     .Services .row {
