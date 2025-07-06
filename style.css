@@ -117,7 +117,7 @@ header .fa-bars{
     gap: 2rem; 
     margin-top: 7rem;
 }
-.About .box .image image{
+.About .box .image img{
     width: 60rem;
     height: 100%;
     object-fit: cover;
@@ -173,7 +173,7 @@ header .fa-bars{
     position: relative;
     overflow: hidden;
 }
-.Portfolio .row .box:hover image{
+.Portfolio .row .box:hover img{
     transform: translateY(-100%);
 }
 .Portfolio .row .box img{
@@ -239,7 +239,7 @@ header .fa-bars{
     height: 25rem;
     width: 25rem;
 }
-.Team .Team-slider .box .image image{
+.Team .Team-slider .box .image img{
     width: 15rem;
     height: 7rem;
     border-radius: 50%;
@@ -388,7 +388,7 @@ header .fa-bars{
         flex-wrap: wrap;
         text-align: center;
     }
-    .About .box .image image{
+    .About .box .image img{
         width: 90%;
     }
     .Services .row {
