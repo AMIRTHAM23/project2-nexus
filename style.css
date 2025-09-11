@@ -210,7 +210,7 @@ header .fa-bars{
     width: 100%;
 }
 .Team .row{
-    background: url(../img/background.jpg);
+    background: url(background.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -407,4 +407,5 @@ header .fa-bars{
         display: grid;
         grid-template-columns: repeat(auto-fit,minmax(25%,1fr));
     }
+
 }
